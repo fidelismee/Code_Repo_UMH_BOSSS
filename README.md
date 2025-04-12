@@ -55,6 +55,7 @@ pip install scikit-learn
 pip install speechrecognition
 pip install pyttsx3
 pip install requests
+```
 
 ### Terminal 1
 ```
