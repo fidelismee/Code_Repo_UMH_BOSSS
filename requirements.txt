@@ -1,0 +1,14 @@
+# --- Voice Interface GUI ---
+speechrecognition
+pyaudio
+pyttsx3
+tk
+requests
+
+# --- Flask Web APIs ---
+flask
+
+# --- Deep Learning Model for Intent Classification ---
+torch
+transformers
+scikit-learn
