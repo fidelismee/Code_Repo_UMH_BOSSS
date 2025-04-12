@@ -46,9 +46,15 @@ git clone https://github.com/your-username/Code_Repo_UMH_BOSSS.git
 cd Code_Repo_UMH_BOSSS/src
 ```
 
-```
-cd src
-```
+### 🔧 Install via pip:
+```bash
+pip install flask
+pip install transformers
+pip install torch
+pip install scikit-learn
+pip install speechrecognition
+pip install pyttsx3
+pip install requests
 
 ### Terminal 1
 ```
