@@ -18,7 +18,7 @@ def recognize_and_send():
     with sr.Microphone() as source:
         recognizer.adjust_for_ambient_noise(source)
         label.config(text="🟢 Speak now (you have 7 seconds)...")
-        speak("I'm listening. Please speak now.")
+        speak("I'm listening.")
         try:
             audio = recognizer.listen(source, timeout=10, phrase_time_limit=7)
             label.config(text="⏳ Processing...")
