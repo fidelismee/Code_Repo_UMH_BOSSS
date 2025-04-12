@@ -47,6 +47,7 @@ cd Code_Repo_UMH_BOSSS/src
 ```
 
 ### 🔧 Install via pip:
+Install the dependencies required
 ```bash
 pip install flask
 pip install transformers
@@ -55,6 +56,7 @@ pip install scikit-learn
 pip install speechrecognition
 pip install pyttsx3
 pip install requests
+pip install pyaudio
 ```
 
 ### Terminal 1
